@@ -71,7 +71,7 @@
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="images/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="https://s2.loli.net/2023/04/20/L9yHBFEm8GODNwI.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- stackoverflow profile
 <a href="">
@@ -94,11 +94,11 @@
 
 **Tools and Environments**
 
-<code><img height="40" src="images/icon_android_studio.png" alt="Android Studio" title="Android Studio"></code>
-<code><img height="40" src="images/icon_vs_code.png" alt="Visual Studio Code" title="Visual Studio Code"></code>
-<code><img height="40" src="images/icon_py_charm.png" alt="PyCharm" title="PyCharm"></code>
-<code><img height="40" src="images/icon_apple.png" alt="Mac Os" title="Mac Os"></code>
-<code><img height="40" src="images/icon_windows.png" alt="Windows" title="Windows"></code>
+<code><img height="40" src="https://s2.loli.net/2023/04/20/swi916WFLJcmyMT.png" alt="Android Studio" title="Android Studio"></code>
+<code><img height="40" src="https://s2.loli.net/2023/04/20/K9kULu1Xv2zHDOC.png" alt="Visual Studio Code" title="Visual Studio Code"></code>
+<code><img height="40" src="https://s2.loli.net/2023/04/20/noEtv7z92yqklP4.png" alt="PyCharm" title="PyCharm"></code>
+<code><img height="40" src="https://s2.loli.net/2023/04/20/t8UDE21g9kSvWTK.png" alt="Mac Os" title="Mac Os"></code>
+<code><img height="40" src="https://s2.loli.net/2023/04/20/d6zQgmwjfxlJCDn.png" alt="Windows" title="Windows"></code>
 
 <br>
 
