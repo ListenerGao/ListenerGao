@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ListenerGao" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=ListenerGao&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=ListenerGao&title_color=333&text_color=777" alt="ListenerGao's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=LitenerGao&hide=issues&title_color=333&text_color=777" alt="ListenerGao's Stats" >
     -->
@@ -51,8 +51,9 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
+  <!--参考 https://github.com/STRRL/serverless-github-badges -->
   <a href="https://github.com/ListenerGao">
-    <img src="https://badges.strrl.dev/visits/ListenerGao?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/visits/ListenerGao/ListenerGao?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/ListenerGao">
     <img src="https://badges.strrl.dev/years/ListenerGao?style=flat-square&color=black&logo=github">
