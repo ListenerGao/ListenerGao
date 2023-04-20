@@ -96,7 +96,10 @@
 
 <code><img height="40" src="images/icon_android_studio.png" alt="Android Studio" title="Android Studio"></code>
 <code><img height="40" src="images/icon_vs_code.png" alt="Visual Studio Code" title="Visual Studio Code"></code>
-<code><img height="40" src="images/icon_py_charm.png"></code>
+<code><img height="40" src="images/icon_py_charm.png" alt="PyCharm" title="PyCharm"></code>
+<code><img height="40" src="images/icon_apple.png" alt="Mac Os" title="Mac Os"></code>
+<code><img height="40" src="images/icon_windows.png" alt="Windows" title="Windows"></code>
+
 <br>
 
 <!--
