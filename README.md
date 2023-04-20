@@ -52,7 +52,7 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/ListenerGao">
-    <img src="https://badges.strrl.dev/visits/ListenerGao/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/visits/ListenerGao?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/ListenerGao">
     <img src="https://badges.strrl.dev/years/ListenerGao?style=flat-square&color=black&logo=github">
@@ -70,7 +70,7 @@
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="image/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="images/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- stackoverflow profile
 <a href="">
